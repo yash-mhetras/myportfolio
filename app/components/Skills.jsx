@@ -102,7 +102,7 @@ export default function Skills() {
       id="Skills"
       className="mt-5 md:mt-0 h-full py-16 md:py-0 md:h-screen w-full flex flex-col justify-center items-center py-12 gap-7"
     >
-        <motion.h1 className="text-3xl md:text-4xl font-bold dark:text-white text-black" whileHover={{scale: 1.04 }} >Technology Tooklit</motion.h1>
+        <motion.h1 className="text-3xl md:text-4xl font-bold dark:text-white text-black" whileHover={{scale: 1.04 }} >Tech Stack</motion.h1>
         <p className=" text-[16px] md:text-[18px] dark:text-neutral-400 text-center text-neutral-600">My tech stack that helps me build web apps that are modern, responsive, and easy to maintain.</p>
       <div className="w-[95%] h-[850px] md:w-[80%] md:h-[300px] border-animated-wrapper p-2">
      
