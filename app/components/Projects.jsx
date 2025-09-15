@@ -25,7 +25,7 @@ export default function Projects() {
  
         <motion.div       transition={transition}
               variants={variants} className='h-[600px] w-[98%] md:h-[320px] md:w-[60%] dark:bg-neutral-900 bg-white  shadow-md dark:shadow-neutral-100/40 shadow-neutral-800/40 rounded-md md:flex-row flex flex-col border dark:border-neutral-400 border-silver-300'>
-        <div className='md:h-[100%] p-3 md:w-[40%] w-[100%] h-[45%] flex justify-center items-center'><img className=" md:h-[80%] w-[80%] h-[100%] object-cover rounded-md" src="/images/projectnew.png"  alt="" /></div>
+        <div className='md:h-[100%] p-3 md:w-[40%] w-[100%] h-[45%] flex justify-center items-center'><img className=" md:h-[80%] w-[80%] h-[100%] object-cover rounded-md" src="/images/profconnect.png"  alt="" /></div>
         <div className='flex flex-col p-3 h-[100%] md:w-[60%] md:gap-4 w-[100%] gap-5 md:justify-center'>
           <h1 className='text-xl comic-relief-regular comic-relief-bold dark:text-white text-black'>ProfConnect</h1>
           <p className='text-[13px] dark:text-white text-black'>ProfConnect is a full-stack professional networking platform.It features user authentication, post creation, resume download, real-time connection requests (send/accept/pending), profile updates, and a discover section to find top and second-degree profiles.</p>
