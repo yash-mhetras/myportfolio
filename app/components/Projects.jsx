@@ -27,16 +27,16 @@ export default function Projects() {
               variants={variants} className='h-[600px] w-[98%] md:h-[320px] md:w-[60%] dark:bg-neutral-900 bg-white  shadow-md dark:shadow-neutral-100/40 shadow-neutral-800/40 rounded-md md:flex-row flex flex-col border dark:border-neutral-400 border-silver-300'>
         <div className='md:h-[100%] p-3 md:w-[40%] w-[100%] h-[45%] flex justify-center items-center'><img className=" md:h-[80%] w-[80%] h-[100%] object-cover rounded-md" src="/images/projectnew.png"  alt="" /></div>
         <div className='flex flex-col p-3 h-[100%] md:w-[60%] md:gap-4 w-[100%] gap-5 md:justify-center'>
-          <h1 className='text-xl comic-relief-regular comic-relief-bold dark:text-white text-black'>PlanCraft</h1>
-          <p className='text-[13px] dark:text-white text-black'> Developed a fully functional platform that enables teams to create and manage workspaces, collaborate with members, and assign role-based permissions.Implemented project and task management with detailed tracking, activity history, and personalized dashboards.Integrated secure authentication, profile management, and a fully responsive design for seamless productivity across devices.</p>
+          <h1 className='text-xl comic-relief-regular comic-relief-bold dark:text-white text-black'>ProfConnect</h1>
+          <p className='text-[13px] dark:text-white text-black'>ProfConnect is a full-stack professional networking platform.It features user authentication, post creation, resume download, real-time connection requests (send/accept/pending), profile updates, and a discover section to find top and second-degree profiles.</p>
           <div className='flex flex-wrap gap-2'>
-            <div className='inline-block whitespace-nowrap text-[13px] px-2 py-1 rounded-full  bg-black'>TypeScript</div>
-            <div className='inline-block whitespace-nowrap text-[13px] px-2 py-1 rounded-full  bg-black'>React Router v7</div>
-            <div className='inline-block whitespace-nowrap text-[13px] px-2 py-1 rounded-full  bg-black'>Tailwind CSS</div>
+       <div className='inline-block whitespace-nowrap text-[13px] px-2 py-1 rounded-full  bg-black'>Next.js</div>
+            <div className='inline-block whitespace-nowrap text-[13px] px-2 py-1 rounded-full  bg-black'>React</div>
+            <div className='inline-block whitespace-nowrap text-[13px] px-2 py-1 rounded-full  bg-black'>Redux Toolkit</div>
             <div className='inline-block whitespace-nowrap text-[13px] px-2 py-1 rounded-full  bg-black'>Node.js</div>
             <div className='inline-block whitespace-nowrap text-[13px] px-2 py-1 rounded-full  bg-black'>Express.js</div>
             <div className='inline-block whitespace-nowrap text-[13px] px-2 py-1 rounded-full  bg-black'>MongoDB</div>
-            <div className='inline-block whitespace-nowrap text-[13px] px-2 py-1 rounded-full  bg-black'>Docker</div>
+             <div className='inline-block whitespace-nowrap text-[13px] px-2 py-1 rounded-full  bg-black'>Cloudinary</div>
         
           </div>
         <div className='flex gap-2'>
